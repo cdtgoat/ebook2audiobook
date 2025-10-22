@@ -20,6 +20,7 @@ mutagen
 nvidia-ml-py
 phonemizer-fork
 pydub
+pandas==2.2.0
 pyannote-audio==4.0.1
 PyOpenGL
 pypinyin
@@ -34,4 +35,5 @@ sudachidict_core
 transformers==4.51.3
 coqui-tts[languages]==0.26.0
 torchvggish
+
 
